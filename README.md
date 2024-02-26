@@ -8,7 +8,7 @@ Hello fellow coders! 👋 This is my personal JavaScript Projects repository, cr
 1. [Magic 8 Ball Project](./projects/magic_8_ball)✅
     - The Magic 8 Ball 🎱 is a classic fortune-telling toy that provides answers to yes-or-no questions. In this project, we've created a digital version that you can interact with in your web browser.
 
-2. [Project 1: ToDo List](./projects/todo-list) ⌛
+2. [Project 1: ToDo List](./projects/todo-list) ✅
    - Create a dynamic ToDo list with features like adding tasks , marking them as completed, and deleting tasks 🗑️. Practice handling user input and updating the DOM in real-time.
 
 3. [Project 2: Weather App](./projects/weather-app) ⌛
