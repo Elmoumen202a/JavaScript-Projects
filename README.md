@@ -1,5 +1,4 @@
-# JavaScript-Projects
-# 🚀 JavaScript Projects Repository
+# 🚀 JavaScript Projects 
 
 Hello fellow coders! 👋 This is my personal JavaScript Projects repository, created with the primary aim of providing a space to practice and enhance my coding skills in JavaScript. In this collection, you'll discover a variety of cool and simple JavaScript projects that I've curated for myself. Whether you're a beginner looking to strengthen fundamentals or an experienced developer seeking fun challenges, this repository is here for you.
 
