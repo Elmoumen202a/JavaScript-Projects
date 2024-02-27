@@ -10,7 +10,7 @@ Hello fellow coders! 👋 This is my personal JavaScript Projects repository, cr
 2. [Project 1: ToDo List](./projects/todo-list) ✅
    - Create a dynamic ToDo list with features like adding tasks , marking them as completed, and deleting tasks 🗑️. Practice handling user input and updating the DOM in real-time.
 
-3. [Project 2: Weather App](./projects/weather-app) ⌛
+3. [Project 2: Weather App](./projects/weather-app) ✅
    - Build a sleek weather application that fetches real-time weather data using an API and displays it in a visually appealing interface 🌦️. Learn how to make asynchronous API calls and present data dynamically.
 
 4. [Project 3: Memory Game](./projects/memory-game) ⌛
