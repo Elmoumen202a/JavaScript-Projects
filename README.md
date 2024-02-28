@@ -13,7 +13,7 @@ Hello fellow coders! 👋 This is my personal JavaScript Projects repository, cr
 3. [Project 2: Weather App](./projects/weather-app) ✅
    - Build a sleek weather application that fetches real-time weather data using an API and displays it in a visually appealing interface 🌦️. Learn how to make asynchronous API calls and present data dynamically.
 
-4. [Project 3: Memory Game](./projects/memory-game) ⌛
+4. [Project 3: Memory Game](./projects/memory-game) ✅
    - Test your memory with a visually stunning memory game. Flip cards to find matching pairs 🃏 and challenge yourself with different difficulty levels. Enhance your knowledge of event handling and game logic.
 
 5. [Project 4: Quiz App](./projects/quiz-app) ⌛
