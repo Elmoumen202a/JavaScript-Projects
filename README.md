@@ -16,7 +16,7 @@ Hello fellow coders! 👋 This is my personal JavaScript Projects repository, cr
 4. [Project 3: Memory Game](./projects/memory-game) ✅
    - Test your memory with a visually stunning memory game. Flip cards to find matching pairs 🃏 and challenge yourself with different difficulty levels. Enhance your knowledge of event handling and game logic.
 
-5. [Project 4: Quiz App](./projects/quiz-app) ⌛
+5. [Project 4: Quiz App](./projects/quiz-app) ✅
    - Develop an interactive quiz application that allows users to answer multiple-choice questions and provides instant feedback on their performance 🏆. Practice managing state and creating dynamic quizzes.
 
 6. [Project 5: Calculator](./projects/calculator) ⌛

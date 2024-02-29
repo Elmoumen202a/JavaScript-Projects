@@ -1,0 +1,51 @@
+/* Apply a basic styling to the body */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f5f5f5;
+}
+
+/* Style for the quiz container */
+#quiz-container {
+    max-width: 600px;
+    margin: 50px auto;
+    background-color: #fff;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Style for each question */
+.question {
+    margin-bottom: 20px;
+}
+
+/* Style for the options list */
+.options {
+    list-style: none;
+    padding: 0;
+}
+
+/* Style for each option */
+.option {
+    margin-bottom: 10px;
+}
+
+/* Style for the feedback message */
+.feedback {
+    font-weight: bold;
+}
+
+/* Style for the submit button */
+.btn {
+    background-color: #4caf50;
+    color: #fff;
+    padding: 10px 15px;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+/* Hover effect for the submit button */
+.btn:hover {
+    background-color: #45a049;
+}
