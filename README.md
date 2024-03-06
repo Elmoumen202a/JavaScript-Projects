@@ -19,7 +19,7 @@ Hello fellow coders! 👋 This is my personal JavaScript Projects repository, cr
 5. [Project 4: Quiz App](./projects/quiz-app) ✅
    - Develop an interactive quiz application that allows users to answer multiple-choice questions and provides instant feedback on their performance 🏆. Practice managing state and creating dynamic quizzes.
 
-6. [Project 5: Calculator](./projects/calculator) ⌛
+6. [Project 5: Calculator](./projects/calculator) ✅
    - Create a stylish calculator with basic arithmetic operations 🧮. Challenge yourself by adding scientific functions and a history feature ⚙️. Improve your skills in handling user interactions and implementing complex functionalities.
 7.  
 

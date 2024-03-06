@@ -1,0 +1,49 @@
+/* Apply a basic styling to the body, centering the calculator */
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    font-family: Arial, sans-serif;
+  }
+  
+  /* Style the calculator container */
+  .calculator {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    width: 300px;
+    background-color: #f8f8f8;
+  }
+  
+  /* Style the display input field */
+  #display {
+    width: 100%;
+    margin-bottom: 10px;
+    padding: 8px;
+    font-size: 1.5em;
+    text-align: right;
+  }
+  
+  /* Style the grid for the calculator buttons */
+  .buttons {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 5px;
+  }
+  
+  /* Style each calculator button */
+  button {
+    padding: 10px;
+    font-size: 1em;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  /* Highlight the button when pressed */
+  button:active {
+    background-color: #ddd;
+  }
+  
