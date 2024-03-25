@@ -4,7 +4,7 @@ Hello fellow coders! 👋 This is my personal JavaScript Projects repository, cr
 
 ## Table of Contents
 
-1. [Magic 8 Ball Project](./projects/magic_8_ball)✅
+1. [Project 0: Magic 8 Ball Project](./projects/magic_8_ball)✅
     - The Magic 8 Ball 🎱 is a classic fortune-telling toy that provides answers to yes-or-no questions. In this project, we've created a digital version that you can interact with in your web browser.
 
 2. [Project 1: ToDo List](./projects/todo-list) ✅
@@ -21,7 +21,9 @@ Hello fellow coders! 👋 This is my personal JavaScript Projects repository, cr
 
 6. [Project 5: Calculator](./projects/calculator) ✅
    - Create a stylish calculator with basic arithmetic operations 🧮. Challenge yourself by adding scientific functions and a history feature ⚙️. Improve your skills in handling user interactions and implementing complex functionalities.
-7.  
+   
+7. [Project 6: Voice Recorder Web Application](./projects/voice-recorder) ✅ 
+   - This web application allows users to record audio using their device's microphone and play back the recorded audio.
 
 ## How to Use
 
