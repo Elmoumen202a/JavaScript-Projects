@@ -25,6 +25,9 @@ Hello fellow coders! 👋 This is my personal JavaScript Projects repository, cr
 7. [Project 6: Voice Recorder Web Application](./projects/voice-recorder) ✅ 
    - This web application allows users to record audio using their device's microphone and play back the recorded audio.
 
+7. [Project 7: number-game](./projects/number-game) ✅ 
+   - A simple number guessing game implemented .
+
 ## How to Use
 
 1. **Clone the repository to your local machine:**
