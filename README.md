@@ -28,10 +28,12 @@ Hello fellow coders! 👋 This is my personal JavaScript Projects repository, cr
 8. [Project 7: number-game](./projects/number-game) ✅   text-to-PDF-converter
    - A simple number guessing game implemented .
 
-9. [Project 8: text-to-PDF-converter](./projects/text-to-PDF-converter) ✅
+9. [Project 9: text-to-PDF-converter](./projects/text-to-PDF-converter) ✅
    - This is a simple JavaScript project that allows users to enter text and convert it into a PDF document.
 
-
+10. [Project 10: To-Do List](./projects/To-Do-List) ✅
+   - This is a simple to-do list web application built using HTML, CSS, and JavaScript.
+   
 ## How to Use
 
 1. **Clone the repository to your local machine:**
