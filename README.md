@@ -33,6 +33,10 @@ Hello fellow coders! 👋 This is my personal JavaScript Projects repository, cr
 
 10. [Project 10: To-Do List](./projects/To-Do-List) ✅
    - This is a simple to-do list web application built using HTML, CSS, and JavaScript.
+
+10. [Project 11: Podcast Website](./projects/podcast-website) ✅
+   - This is a simple podcast website project created using HTML, CSS, and JavaScript. It displays a list of podcast episodes with their titles, descriptions, and audio players.
+
    
 ## How to Use
 
