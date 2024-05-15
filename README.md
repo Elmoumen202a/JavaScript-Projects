@@ -34,8 +34,13 @@ Hello fellow coders! 👋 This is my personal JavaScript Projects repository, cr
 10. [Project 10: To-Do List](./projects/To-Do-List) ✅
    - This is a simple to-do list web application built using HTML, CSS, and JavaScript.
 
-10. [Project 11: Podcast Website](./projects/podcast-website) ✅
+11. [Project 11: Podcast Website](./projects/podcast-website) ✅
    - This is a simple podcast website project created using HTML, CSS, and JavaScript. It displays a list of podcast episodes with their titles, descriptions, and audio players.
+
+12. [Project 11: German Vocabulary Study](./projects/German-vocabulary-study) ✅
+   - This is a simple web application to help you study German vocabulary. It displays German words along with their English translations. You can click the "Next Word" button to move to the next word.
+
+
 
    
 ## How to Use
