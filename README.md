@@ -37,8 +37,12 @@ Hello fellow coders! 👋 This is my personal JavaScript Projects repository, cr
 11. [Project 11: Podcast Website](./projects/podcast-website) ✅
    - This is a simple podcast website project created using HTML, CSS, and JavaScript. It displays a list of podcast episodes with their titles, descriptions, and audio players.
 
-12. [Project 11: German Vocabulary Study](./projects/German-vocabulary-study) ✅
+12. [Project 12: German Vocabulary Study](./projects/German-vocabulary-study) ✅
    - This is a simple web application to help you study German vocabulary. It displays German words along with their English translations. You can click the "Next Word" button to move to the next word.
+
+13. [Project 13: Age Calculator](./projects/age-calculator) ✅
+   - This is a simple web application that calculates your age based on the birthdate you input.
+
 
 
 
