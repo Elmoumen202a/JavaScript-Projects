@@ -43,6 +43,10 @@ Hello fellow coders! 👋 This is my personal JavaScript Projects repository, cr
 13. [Project 13: Age Calculator](./projects/age-calculator) ✅
    - This is a simple web application that calculates your age based on the birthdate you input.
 
+14. [Project 14: Password Generator](./projects/password-generator) ✅
+   - This project is a simple web application to generate strong passwords. It includes an HTML file for the structure, a CSS file for styling, and a JavaScript file for the functionality.
+
+
 
 
 
