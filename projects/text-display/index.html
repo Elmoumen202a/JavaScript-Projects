@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Text Display Project</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Text Display Project</h1>
+        <input type="text" id="textInput" placeholder="Enter text here">
+        <div class="controls">
+            <label for="colorInput">Text Color:</label>
+            <input type="color" id="colorInput">
+            <label for="sizeInput">Text Size:</label>
+            <input type="range" id="sizeInput" min="10" max="48" value="18">
+        </div>
+        <p id="displayText"></p>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
