@@ -46,15 +46,11 @@ Hello fellow coders! 👋 This is my personal JavaScript Projects repository, cr
 14. [Project 14: Password Generator](./projects/password-generator) ✅
    - This project is a simple web application to generate strong passwords. It includes an HTML file for the structure, a CSS file for styling, and a JavaScript file for the functionality.
 
-14. [Project 15: Text Display](./projects/text-display) ✅
+15. [Project 15: Text Display](./projects/text-display) ✅
    - This project is a simple web application that allows users to input text and see it displayed dynamically on the page. It demonstrates the basics of HTML, CSS, and JavaScript integration.
 
-
-
-
-
-
-
+16. [Project 16: Tic-Tac-Toe Game](./projects/Tic-Tac-Toe-Game) ✅
+   - This is a simple implementation of the classic Tic-Tac-Toe game using HTML, CSS, and JavaScript.
    
 ## How to Use
 
