@@ -51,6 +51,9 @@ Hello fellow coders! 👋 This is my personal JavaScript Projects repository, cr
 
 16. [Project 16: Tic-Tac-Toe Game](./projects/Tic-Tac-Toe-Game) ✅
    - This is a simple implementation of the classic Tic-Tac-Toe game using HTML, CSS, and JavaScript.
+
+17. [Project 16: german wor slider](./projects/german-word-slider) ✅
+   - This project is a simple slider that displays German words and their definitions. It's built with HTML, CSS, and JavaScript.
    
 ## How to Use
 
