@@ -64,6 +64,10 @@ Hello fellow coders! 👋 This is my personal JavaScript Projects repository, cr
 20. [Project 20: Conversation Bot](./projects/conversation-bot) ✅
    - A simple conversation bot project using HTML, CSS, and JavaScript.
 
+21. [Project 21: Word to German Sentence Translator](./projects/Word-to-Sentence) ✅
+   - This project is a simple web application that translates an English word into a German sentence.
+
+
    
 ## How to Use
 
