@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Excel Data Visualization</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Excel Data Visualization</h1>
+        <input type="file" id="file-input" accept=".xlsx, .xls">
+        
+        <!-- Dropdown for selecting chart type -->
+        <label for="chart-type">Select Chart Type:</label>
+        <select id="chart-type">
+            <option value="bar">Bar</option>
+            <option value="line">Line</option>
+            <option value="pie">Pie</option>
+            <option value="doughnut">Doughnut</option>
+        </select>
+
+        <!-- Dropdown for selecting color -->
+        <label for="chart-color">Select Chart Color:</label>
+        <input type="color" id="chart-color" value="#4bc0c0">
+
+        <!-- Show Result button -->
+        <button id="show-result">Show Result</button>
+
+        <canvas id="chart"></canvas>
+        <table id="data-table">
+            <thead>
+                <tr>
+                    <th>Category</th>
+                    <th>Value</th>
+                </tr>
+            </thead>
+            <tbody>
+                <!-- Data will be inserted here -->
+            </tbody>
+        </table>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/xlsx/dist/xlsx.full.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
