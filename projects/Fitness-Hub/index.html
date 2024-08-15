@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fitness Hub</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="bootstrap.css">
+    <link rel="stylesheet" href="bootstrap.min.css">
+</head>
+<body>
+    <header>
+        <h1>Fitness Hub</h1>
+        <nav>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Workouts</a></li>
+                <li><a href="#">Nutrition</a></li>
+                <li><a href="#">Tracker</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="hero">
+        <h2>Get Fit, Stay Healthy!</h2>
+        <p>Your fitness journey starts here.</p>
+        <div id="quote-container"></div>
+    </section>
+
+    <section class="features">
+        <div class="feature">
+            <h3>Workout Plans</h3>
+            <input type="text" id="workout-name" placeholder="Workout Name">
+            <input type="number" id="workout-reps" placeholder="Repetitions">
+            <button id="add-workout-btn">Add Workout</button>
+            <div id="workout-planner"></div>
+        </div>
+        <div class="feature">
+            <h3>Calorie Tracker</h3>
+            <input type="text" id="meal-name" placeholder="Meal Name">
+            <input type="number" id="meal-calories" placeholder="Calories">
+            <button id="add-meal-btn">Add Meal</button>
+            <div id="calorie-tracker"></div>
+        </div>
+        <div class="feature">
+            <h3>Water Intake Tracker</h3>
+            <input type="number" id="water-glasses" placeholder="Number of Glasses">
+            <button id="add-water-btn">Add Water</button>
+            <div id="water-tracker"></div>
+        </div>
+        <div class="feature">
+            <h3>BMI Calculator</h3>
+            <input type="number" id="height" placeholder="Height (cm)">
+            <input type="number" id="weight" placeholder="Weight (kg)">
+            <button id="calculate-bmi-btn">Calculate BMI</button>
+            <p id="bmi-result"></p>
+        </div>
+        <div class="feature">
+            <h3>Motivation</h3>
+            <p id="motivation-quote"></p>
+        </div>
+    </section>
+
+    <section class="summary">
+        <h3>Today's Summary</h3>
+        <p id="summary"></p>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Fitness Hub. All rights reserved.</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
