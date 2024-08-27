@@ -66,7 +66,7 @@ Hello fellow coders! 👋 This is my personal JavaScript Projects repository, cr
 
 21. [Project 21: Word to German Sentence Translator](./projects/Word-to-Sentence) ✅
    - This project is a simple web application that translates an English word into a German sentence.
-   - 
+     
 22. [Project 22: Guess the Number Game](./projects/guess_number_game) ✅
    - This project is a simple "Guess the Number" game built using JavaScript, HTML, and CSS. The goal is to guess the randomly generated number between 1 and 100.
 
