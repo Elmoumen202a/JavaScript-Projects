@@ -14,7 +14,6 @@ This project is a simple "Guess the Number" game built using JavaScript, HTML, a
             └── readme.md
 
 ```
-
 ## How to Play
 1. Enter your guess in the input box.
 2. Click "Submit" to see if your guess is correct.
