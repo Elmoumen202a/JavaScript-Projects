@@ -1,0 +1,169 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Arial', sans-serif;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: #f4f4f9;
+}
+
+h1 {
+    color: #ff6f61;
+    margin-bottom: 20px;
+}
+
+#game-container {
+    position: relative;
+    width: 500px;
+    height: 500px;
+    border: 2px solid #333;
+    background-color: #e6e6e6;
+    overflow: hidden;
+    border-radius: 10px;
+}
+
+#cat, #mouse {
+    position: absolute;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#cat {
+    width: 60px;
+    height: 60px;
+    background-color: orange;
+    top: 0;
+    left: 0;
+    transition: all 0.1s;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+#mouse {
+    width: 40px;
+    height: 40px;
+    background-color: gray;
+    top: 300px;
+    left: 300px;
+    transition: all 0.1s;
+}
+
+#cat .ear {
+    width: 15px;
+    height: 15px;
+    background-color: #ff944d;
+    border-radius: 50%;
+    position: absolute;
+}
+
+#cat .left-ear {
+    top: -10px;
+    left: 5px;
+}
+
+#cat .right-ear {
+    top: -10px;
+    right: 5px;
+}
+
+#cat .face {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#cat .eyes {
+    display: flex;
+    justify-content: space-between;
+    width: 50%;
+    margin-top: 10px;
+}
+
+#cat .eye {
+    width: 10px;
+    height: 10px;
+    background-color: black;
+    border-radius: 50%;
+}
+
+#cat .mouth {
+    width: 15px;
+    height: 8px;
+    background-color: black;
+    border-radius: 50%;
+    margin-top: 8px;
+}
+
+#mouse .ear {
+    width: 10px;
+    height: 10px;
+    background-color: #cccccc;
+    border-radius: 50%;
+    position: absolute;
+}
+
+#mouse .left-ear {
+    top: -5px;
+    left: 5px;
+}
+
+#mouse .right-ear {
+    top: -5px;
+    right: 5px;
+}
+
+#mouse .face {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#mouse .eye {
+    width: 6px;
+    height: 6px;
+    background-color: black;
+    border-radius: 50%;
+    margin-top: 5px;
+}
+
+#mouse .nose {
+    width: 4px;
+    height: 4px;
+    background-color: pink;
+    border-radius: 50%;
+    margin-top: 5px;
+}
+
+#status {
+    margin-top: 20px;
+    font-size: 20px;
+    color: #333;
+}
+
+body::before {
+    content: '';
+    background-image: url('cat-mouse-bg.png'); /* You can add a playful background image */
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    opacity: 0.2;
+    z-index: -1;
+}
