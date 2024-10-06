@@ -70,6 +70,16 @@ Hello fellow coders! 👋 This is my personal JavaScript Projects repository, cr
 22. [Project 22: Guess the Number Game](./projects/guess_number_game) ✅
    - This project is a simple "Guess the Number" game built using JavaScript, HTML, and CSS. The goal is to guess the randomly generated number between 1 and 100.
 
+23. [Project 23: Push the Ball Game](./projects/push_the_ball_game) ✅
+   - This is a simple game where the player moves a red ball using the arrow keys on the keyboard. The goal is to push the ball into the green target area to win the game.
+
+24. [Project 24: Cat and Mouse Game](./projects/cat_mouse_game) ✅
+   - Welcome to **Cat and Mouse Chase**, an exciting game where the cat chases the mouse! Control the mouse using your real mouse pointer 🖱️ and try to escape the cat for 30 seconds to win!
+
+25. [Project 24: Podcast App ](./projects/podcast_app) ✅
+   - Welcome to the **Podcast App**, where you can enjoy your favorite episodes, like/unlike them, and manage your account with simple login and logout features. 🚀
+
+
 ## How to Use
 
 1. **Clone the repository to your local machine:**
@@ -77,4 +87,12 @@ Hello fellow coders! 👋 This is my personal JavaScript Projects repository, cr
    ```bash
    git clone https://github.com/Elmoumen202a/JavaScript-Projects.git
 
+# 🤝 Contributing
+
+We welcome contributions! Feel free to fork this repository, make improvements, and submit a pull request. Let’s build something amazing together. 💻🚀  
+
+# 📜 License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+ ## 
 Have Fun! 🚀
