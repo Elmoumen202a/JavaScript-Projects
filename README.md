@@ -82,6 +82,8 @@ Hello fellow coders! 👋 This is my personal JavaScript Projects repository, cr
 26. [Project 26: Game of Words: Word Puzzles ](./projects/word_puzzles) ✅
    - Game of Words: Word Puzzles is a simple and fun word guessing game where players try to guess a hidden word by suggesting letters. Players have a limited number of attempts to guess the word correctly.
 
+27. [Project 27: Avoid the Blocks ](./projects/avoid_blocks) ✅
+   - A fast-paced game where you must dodge falling blocks to survive. Use the arrow keys to move the player left or right and avoid the obstacles.
 
 ## How to Use
 
