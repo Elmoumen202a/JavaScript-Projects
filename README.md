@@ -85,6 +85,10 @@ Hello fellow coders! 👋 This is my personal JavaScript Projects repository, cr
 27. [Project 27: Avoid the Blocks ](./projects/avoid_blocks) ✅
    - A fast-paced game where you must dodge falling blocks to survive. Use the arrow keys to move the player left or right and avoid the obstacles.
 
+28. [Project 28: Study Tracker ](./projects/study_tracker) ✅
+   - A simple JavaScript-based project to track your daily study habits. Inspired by the GitHub contribution graph, this tracker allows you to click on each day of the week to mark whether you've studied or not.
+
+
 ## How to Use
 
 1. **Clone the repository to your local machine:**
