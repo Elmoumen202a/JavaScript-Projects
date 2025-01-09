@@ -88,6 +88,8 @@ Hello fellow coders! 👋 This is my personal JavaScript Projects repository, cr
 28. [Project 28: Study Tracker ](./projects/study_tracker) ✅
    - A simple JavaScript-based project to track your daily study habits. Inspired by the GitHub contribution graph, this tracker allows you to click on each day of the week to mark whether you've studied or not.
 
+29. [Project 29: Learn German with AI ](./projects/learn_GermanAI) ✅
+   - This project is an AI-based web application that teaches users German in a fun and interactive way.
 
 ## How to Use
 
