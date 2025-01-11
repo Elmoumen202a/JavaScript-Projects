@@ -91,6 +91,9 @@ Hello fellow coders! 👋 This is my personal JavaScript Projects repository, cr
 29. [Project 29: Learn German with AI ](./projects/learn_GermanAI) ✅
    - This project is an AI-based web application that teaches users German in a fun and interactive way.
 
+30. [Project 30: Notes ](./projects/notes) ✅
+   - This is a simple JavaScript project that allows users to: Add notes with an associated date, display all notes in a list and delete notes when they're no longer needed.
+
 ## How to Use
 
 1. **Clone the repository to your local machine:**
