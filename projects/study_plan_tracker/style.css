@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+}
+
+main {
+    padding: 20px;
+}
+
+#study-logs {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-top: 20px;
+}
+
+.study-log {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    width: 150px;
+    text-align: center;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.study-log.done {
+    background-color: #4CAF50;
+    color: white;
+}
+
+.study-log.not-done {
+    background-color: #ccc;
+    color: black;
+}
+

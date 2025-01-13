@@ -1,0 +1,48 @@
+
+Study Plan Tracker - UX Design
+
+Header Section:
+- Position: Centered at the top of the page.
+- Content: Title with an icon (e.g., "📚 Study Plan Tracker").
+- Color: Green background (#4CAF50) with white text.
+
+Input Form Section:
+- Position: Directly below the header.
+- Title: "Log Your Study" in bold.
+- Content:
+  - Date picker.
+  - Dropdown for study categories.
+  - Input for hours studied.
+  - Submit button.
+- Layout: Form elements stacked vertically with consistent spacing.
+- Color: Light background with dark text. The button should have a green color similar to the header.
+
+Dashboard Section:
+- Position: Below the input form.
+- Title: "Study Dashboard" in bold.
+- Content:
+  - A grid layout showing individual study logs.
+  - Each log represented as a card:
+    - Date
+    - Category
+    - Hours studied
+  - Cards color-coded based on completion (e.g., green for completed, gray for in-progress).
+- Color: White background for the section, with cards in light gray or green.
+
+Textual Drawing:
+----------------------------------------
+|           📚 Study Plan Tracker       |
+----------------------------------------
+|         [ Log Your Study ]           |
+| Date:   [    date picker    ]         |
+| Category: [ dropdown menu ]          |
+| Hours:   [  input number   ]         |
+|         [    Add Button    ]         |
+----------------------------------------
+|         [  Study Dashboard ]         |
+|  +------------------+   +-----------+|
+|  | Date: 01/13/25   |   | Date: ... | |
+|  | Grammar: 2 hrs   |   | ...       | |
+|  | [Completed: 🟢]   |   | [Pending] | |
+|  +------------------+   +-----------+|
+----------------------------------------

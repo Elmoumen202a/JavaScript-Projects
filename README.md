@@ -94,6 +94,10 @@ Hello fellow coders! 👋 This is my personal JavaScript Projects repository, cr
 30. [Project 30: Notes ](./projects/notes) ✅
    - This is a simple JavaScript project that allows users to: Add notes with an associated date, display all notes in a list and delete notes when they're no longer needed.
 
+31. [Project 31: Study Plan Tracker ](./projects/study_plan_tracker) ✅
+   - This is a simple web application to help you track your daily study hours and categorize your study into Grammar, New Words, Speaking, Reading, etc.
+
+
 ## How to Use
 
 1. **Clone the repository to your local machine:**
