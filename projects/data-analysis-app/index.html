@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Data Analysis App</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Data Analysis App</h1>
+  </header>
+  <main>
+    <div>
+      <label for="data-input">Enter your data (comma-separated):</label>
+      <textarea id="data-input" rows="5" placeholder="e.g., 12, 45, 23, 67"></textarea>
+    </div>
+    <button id="analyze-button">Analyze</button>
+    <div id="results">
+      <h2>Analysis Results</h2>
+      <p id="mean-result"></p>
+      <p id="median-result"></p>
+      <p id="mode-result"></p>
+    </div>
+  </main>
+  <script src="script.js"></script>
+</body>
+</html>

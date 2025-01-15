@@ -97,6 +97,8 @@ Hello fellow coders! 👋 This is my personal JavaScript Projects repository, cr
 31. [Project 31: Study Plan Tracker ](./projects/study_plan_tracker) ✅
    - This is a simple web application to help you track your daily study hours and categorize your study into Grammar, New Words, Speaking, Reading, etc.
 
+32. [Project 32: Data Analysis App ](./projects/data-analysis-app) ✅
+   - A simple web-based application for basic data analysis. It allows users to input numerical data, calculate the **mean**, **median**, and **mode**, and display the results dynamically.
 
 ## How to Use
 
