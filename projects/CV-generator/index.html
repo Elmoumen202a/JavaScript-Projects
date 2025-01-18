@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Interactive CV</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="form-container">
+        <h2>Fill in Your Details</h2>
+        <form id="cv-form">
+            <label for="name-input">Name:</label>
+            <input type="text" id="name-input" placeholder="Enter your name">
+            
+            <label for="email-input">Email:</label>
+            <input type="email" id="email-input" placeholder="Enter your email">
+
+            <label for="phone-input">Phone:</label>
+            <input type="tel" id="phone-input" placeholder="Enter your phone number">
+
+            <label for="education-input">Education:</label>
+            <input type="text" id="education-input" placeholder="Enter your education">
+
+            <label for="experience-input">Experience:</label>
+            <input type="text" id="experience-input" placeholder="Enter your experience">
+
+            <label for="skills-input">Skills:</label>
+            <input type="text" id="skills-input" placeholder="Enter your skills">
+
+            <label for="photo-input">Upload Photo:</label>
+            <input type="file" id="photo-input" accept="image/*">
+
+            <button type="button" id="update-btn">Update CV</button>
+        </form>
+    </div>
+
+    <div id="cv-container">
+        <img id="photo" src="" alt="Your Photo" style="display: none;">
+        <h1 id="name">Your Name</h1>
+        <h2>Contact Information</h2>
+        <p>Email: <span id="email">your.email@example.com</span></p>
+        <p>Phone: <span id="phone">123-456-7890</span></p>
+
+        <h2>Education</h2>
+        <p id="education">Your Degree - Your University (Year)</p>
+
+        <h2>Experience</h2>
+        <p id="experience">Your Role - Your Company (Year)</p>
+
+        <h2>Skills</h2>
+        <p id="skills">Skill 1, Skill 2, Skill 3</p>
+    </div>
+    <button id="download-btn">Download as PDF</button>
+
+    <script src="script.js"></script>
+</body>
+</html>

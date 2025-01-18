@@ -100,6 +100,9 @@ Hello fellow coders! 👋 This is my personal JavaScript Projects repository, cr
 32. [Project 32: Data Analysis App ](./projects/data-analysis-app) ✅
    - A simple web-based application for basic data analysis. It allows users to input numerical data, calculate the **mean**, **median**, and **mode**, and display the results dynamically.
 
+33. [Project 33: CV Creator and PDF Downloader ](./projects/CV-generator) ✅
+   - This web application allows users to create their professional CV in real time, customize it with their personal details and photo, and download it as a PDF. Perfect for anyone who needs a sleek, ready-to-go resume! 💼
+
 ## How to Use
 
 1. **Clone the repository to your local machine:**

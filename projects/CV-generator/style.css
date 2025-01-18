@@ -1,0 +1,150 @@
+/* General Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+    background: linear-gradient(to right, #4facfe, #00f2fe);
+    color: #333;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-height: 100vh;
+}
+
+/* Form Container Styling */
+#form-container {
+    background: #ffffff;
+    padding: 20px 30px;
+    border-radius: 12px;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+    width: 90%;
+    max-width: 400px;
+    margin-bottom: 30px;
+}
+
+#form-container h2 {
+    color: #333;
+    font-size: 1.5rem;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+form label {
+    font-weight: bold;
+    font-size: 0.9rem;
+    color: #555;
+}
+
+form input[type="text"],
+form input[type="email"],
+form input[type="tel"],
+form input[type="file"] {
+    padding: 12px;
+    font-size: 1rem;
+    border: 2px solid #ccc;
+    border-radius: 8px;
+    outline: none;
+    transition: 0.3s;
+}
+
+form input[type="text"]:focus,
+form input[type="email"]:focus,
+form input[type="tel"]:focus {
+    border-color: #4facfe;
+    box-shadow: 0 0 8px rgba(79, 172, 254, 0.5);
+}
+
+#update-btn {
+    background: #4facfe;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 12px 15px;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: 0.3s;
+    font-weight: bold;
+}
+
+#update-btn:hover {
+    background: #00c6ff;
+}
+
+/* CV Container Styling */
+#cv-container {
+    background: white;
+    padding: 20px 30px;
+    border-radius: 12px;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+    width: 90%;
+    max-width: 600px;
+    margin-top: 20px;
+    text-align: left;
+    color: #444;
+}
+
+#cv-container h1 {
+    color: #4facfe;
+    font-size: 2rem;
+    margin-bottom: 10px;
+}
+
+#cv-container h2 {
+    color: #00c6ff;
+    font-size: 1.4rem;
+    margin-top: 15px;
+    margin-bottom: 5px;
+}
+
+#cv-container p {
+    font-size: 1rem;
+    line-height: 1.5;
+}
+
+#photo {
+    width: 120px;
+    height: 120px;
+    object-fit: cover;
+    border-radius: 50%;
+    margin-bottom: 15px;
+    border: 3px solid #4facfe;
+    display: block;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+}
+
+/* Download Button Styling */
+#download-btn {
+    background: #4facfe;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 12px 15px;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: 0.3s;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+#download-btn:hover {
+    background: #00c6ff;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    #form-container,
+    #cv-container {
+        width: 100%;
+    }
+}
