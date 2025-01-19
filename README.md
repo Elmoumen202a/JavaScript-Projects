@@ -103,6 +103,9 @@ Hello fellow coders! 👋 This is my personal JavaScript Projects repository, cr
 33. [Project 33: CV Creator and PDF Downloader ](./projects/CV-generator) ✅
    - This web application allows users to create their professional CV in real time, customize it with their personal details and photo, and download it as a PDF. Perfect for anyone who needs a sleek, ready-to-go resume! 💼
 
+34. [Project 34: Club Teaching ](./projects/ClubTeching) ✅
+   - A simple teaching platform inspired by Twitter for sharing and learning.
+
 ## How to Use
 
 1. **Clone the repository to your local machine:**
