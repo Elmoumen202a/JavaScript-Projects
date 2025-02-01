@@ -1,0 +1,24 @@
+/* General body styling */
+body {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: linear-gradient(135deg, #1e3c72, #2a5298); /* Gradient background */
+    font-family: 'Arial', sans-serif;
+    overflow: hidden;
+}
+
+/* Canvas styling */
+canvas {
+    border: 5px solid #ffffff; /* White border */
+    background-color: #000000; /* Black background */
+    box-shadow: 0 0 20px rgba(255, 255, 255, 0.5); /* Glow effect */
+    border-radius: 10px; /* Rounded corners */
+}
+
+/* Add a glowing effect to the canvas on hover */
+canvas:hover {
+    box-shadow: 0 0 30px rgba(255, 255, 255, 0.8);
+}

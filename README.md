@@ -106,6 +106,10 @@ Hello fellow coders! 👋 This is my personal JavaScript Projects repository, cr
 34. [Project 34: Club Teaching ](./projects/ClubTeching) ✅
    - A simple teaching platform inspired by Twitter for sharing and learning.
 
+35. [Project 35: 2D Brick Breaker Game ](./projects/2D_BrickBreakerGame) ✅
+   - A simple 2D Brick Breaker game built using HTML, CSS, and JavaScript.
+
+
 ## How to Use
 
 1. **Clone the repository to your local machine:**
