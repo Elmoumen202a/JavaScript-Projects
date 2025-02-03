@@ -1,0 +1,41 @@
+<!-- index.html -->
+<!DOCTYPE html>
+<html>
+<head>
+    <title>3D Cat Artist</title>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Toolbar -->
+    <div class="toolbar">
+        <div class="tool-group">
+            <button class="tool-btn active" id="brushBtn" title="Draw">
+                <i class="fas fa-paint-brush"></i>
+            </button>
+            <button class="tool-btn" id="eraserBtn" title="Eraser">
+                <i class="fas fa-eraser"></i>
+            </button>
+            <input type="color" id="colorPicker" title="Select Color">
+        </div>
+        
+        <div class="tool-group">
+            <label title="Brush Size">
+                <i class="fas fa-circle"></i>
+                <input type="range" id="brushSize" min="1" max="50" value="10">
+            </label>
+        </div>
+
+        <div class="tool-group">
+            <button class="tool-btn" id="clearBtn" title="Clear All">
+                <i class="fas fa-trash"></i>
+            </button>
+        </div>
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/three@0.128.0/examples/js/controls/OrbitControls.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>

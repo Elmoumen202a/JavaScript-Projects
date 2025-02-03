@@ -109,6 +109,9 @@ Hello fellow coders! 👋 This is my personal JavaScript Projects repository, cr
 35. [Project 35: 2D Brick Breaker Game ](./projects/2D_BrickBreakerGame) ✅
    - A simple 2D Brick Breaker game built using HTML, CSS, and JavaScript.
 
+36. [Project 36: 3D Playful Cat Project ](./projects/3D_PlayfulCat) 
+   - A interactive 3D cat that you can rotate, zoom, and draw on!
+
 
 ## How to Use
 
